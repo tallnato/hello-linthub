@@ -4,7 +4,7 @@ php:
   lint: true
 java: 
   lint: true
-  config: # google_checks.xml (default) | sun_checks.xml 
+  config: checkstyle.xml
 scala:
   lint: true
 shell:
