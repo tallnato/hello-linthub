@@ -1,17 +1,4 @@
-go:
+java:
   lint: true
-php:
-  lint: true
-java: 
-  lint: true
-  config: checkstyle.xml
-scala:
-  lint: true
-shell:
-  lint: true
-css:
-  lint: true
-js: 
-  lint: eslint # jshint (default) | eslint | false
-  #.config .eslintrc
-  
+  config: checkstyle.xm
+
