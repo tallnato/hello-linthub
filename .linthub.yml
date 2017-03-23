@@ -1,4 +1,5 @@
 java:
+  pmd: false
   lint: true
-  config: checkstyle
+  config: checkstyle.xml
 
